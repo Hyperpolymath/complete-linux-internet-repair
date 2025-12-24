@@ -1,0 +1,21 @@
+= Complete Linux Internet Repair
+:toc: auto
+
+A comprehensive, automated toolkit for diagnosing and repairing internet connectivity issues on Linux systems.
+
+== Features
+
+* Automated diagnostics
+* Network repair utilities
+* Comprehensive connectivity testing
+
+== Usage
+
+[source,bash]
+----
+./repair.sh
+----
+
+== License
+
+AGPL-3.0-or-later
